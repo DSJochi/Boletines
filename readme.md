@@ -1,5 +1,1 @@
-# Proyecto de Boletines
-
-## Listado
-
-- Youtubers
+# Proyecto de Boletines Youtubers
