@@ -1,0 +1,42 @@
+[
+  {
+    "numero": 1,
+    "nombre": "JuegaGerman",
+    "pais": "Chile",
+    "suscriptores": 45900000,
+    "categoria": "Variado-Infantil",
+    "calificacion": 4
+  },
+  {
+    "numero": 2,
+    "nombre": "El rincón de Giorgio",
+    "pais": "España",
+    "suscriptores": 11200000,
+    "categoria": "Terror-Adultos",
+    "calificacion": 5
+  },
+  {
+    "numero": 3,
+    "nombre": "Danirep",
+    "pais": "España",
+    "suscriptores": 12000000,
+    "categoria": "GTAV Online-Infantil",
+    "calificacion": 3
+  },
+  {
+    "numero": 4,
+    "nombre": "El Fedelobo",
+    "pais": "Mexicano",
+    "suscriptores": 7330000,
+    "categoria": "Resumenes-Adultos",
+    "calificacion": 4
+  },
+  {
+    "numero": 5,
+    "nombre": "Spreen",
+    "pais": "Argentina",
+    "suscriptores": 4460000,
+    "categoria": "Variado-Infantil",
+    "calificacion": 4
+  }
+]
