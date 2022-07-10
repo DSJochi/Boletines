@@ -1,0 +1,23 @@
+{
+  "name": "boletines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "static -p 8000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSJochi/Boletines.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSJochi/Boletines/issues"
+  },
+  "homepage": "https://github.com/DSJochi/Boletines#readme",
+  "devDependencies": {
+    "node-static": "^0.7.11"
+  }
+}
