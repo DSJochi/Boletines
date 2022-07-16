@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "server": "static -p 8000",
+    "server": "http-server -c-1 -g -o -p 8000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/DSJochi/Boletines#readme",
   "devDependencies": {
-    "node-static": "^0.7.11"
+    "http-server": "^14.1.1"
   }
 }

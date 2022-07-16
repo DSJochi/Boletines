@@ -1,7 +1,8 @@
-td { 
+td {
 
     border:solid 1px;
 }
 
-
-
+tr:nth-child(even) {
+  background-color: #e2e2e2;
+}
