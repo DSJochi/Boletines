@@ -5,6 +5,7 @@
 <head>
   <meta charset="uft-8">
   <title>Mejores Youtubers</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap">
   <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css">
   <link rel="stylesheet" href="font-awesome/css/all.css">
   <link rel="stylesheet" href="assets/css/hola.css" type='text/css'>
@@ -17,22 +18,20 @@
   <div class="container">
     <div class="content">
       <header>
-        <h1> Mejores Youtubers</h1>
+        <h1 class="titulo"> Mejores Youtubers</h1>
       </header>
-      <div class="content-table">
-        <table>
-          <thead>
-            <th>#</th>
-            <th>Nombre</th>
-            <th>Pais</th>
-            <th>Subscriptores</th>
-            <th>Categoria</th>
-            <th>Calificacion propia</th>
-          </thead>
-          <tbody id="id-tbody"></tbody>
-        </table>
-        <button onclick="cargarDatos()">Mostrar datos tabla</button>
-      </div>
+      <table class="table">
+       <thead>
+          <th>#</th>
+          <th>Nombre</th>
+          <th>Pais</th>
+          <th>Subscriptores</th>
+          <th>Categoria</th>
+          <th>Calificacion propia</th>
+        </thead>
+        <tbody id="id-tbody"></tbody>
+      </table>
+      <button onclick="cargarDatos()">Mostrar datos tabla</button>
     </div>
   </div>
 </body>
