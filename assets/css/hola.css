@@ -6,3 +6,12 @@ td {
 tr:nth-child(even) {
   background-color: #e2e2e2;
 }
+
+.content-table {
+  display: flex;
+  justify-content: center;
+}
+
+table, button {
+  align-items: auto;
+}
